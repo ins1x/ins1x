@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td>
-      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450"/>&nbsp;
+      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>&nbsp;
       </td>
       <td>
         <p>
