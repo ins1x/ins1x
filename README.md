@@ -9,13 +9,19 @@
           <h2>Hi, i'm 1NS</h2>
           <ul>
             <li>Now I work in the technical support of a large Internet provider.</li>
+            <li>I maintenance virtual servers based on Linux</li>
             <li>As a hobby, write code on <b>Pawn</b> and <b>Python</b>.</li>
             <li>Helping with support of game servers in <a href="https://www.sa-mp.com/">sa-mp</a>.</li>
-            <li>Maintain a <a href="https://vk.com/1nsanemapping">blog on mapping in the GTA 3D Universe series</a>.</li>
+            <li>I publish in a <a href="https://vk.com/1nsanemapping">blog on mapping in the GTA 3D Universe series</a>.</li>
           </ul>
         </p>
         <p>
-           <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/discord-icon.png"/>&nbsp;<b><i>1NS#7233</i></b>
+           <div id="contacts" align="right">
+            <a href=https://discord.com/users/908991660157976607">
+              <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/discord-icon.png"/>&nbsp;<b><i>1NS#7233</i></b>
+            </a>
+            <a href="https://t.me/ins1x"><img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/24/web-telegram-icon.png"/>&nbsp;<b><i>ins1x</i></b></a>
+           </div>
         </p>
           <div id="languages" align="center">
             <h2> </h2>
