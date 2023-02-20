@@ -15,20 +15,21 @@
           </ul>
         </p>
         <p>
-           <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/discord-icon.png"/>&nbsp;<b>1NS#7233</b>
+           <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/discord-icon.png"/>&nbsp;<b><i>1NS#7233</i></b>
         </p>
-        <p>
-          <h2> </h2>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
-          title="Python" alt="Python" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"
-          title="C" alt="C" width="40" height="40"/>&nbsp;
-          <img src="https://icons.iconarchive.com/icons/fa-team/fontawesome/48/FontAwesome-Chess-Pawn-icon.png"
-          title="Pawn" alt="Pawn" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"
-          title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"
-          title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+          <div id="languages" align="center">
+            <h2> </h2>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+            title="Python" alt="Python" width="40" height="40"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"
+            title="C" alt="C" width="40" height="40"/>&nbsp;
+            <img src="https://icons.iconarchive.com/icons/fa-team/fontawesome/48/FontAwesome-Chess-Pawn-icon.png"
+            title="Pawn" alt="Pawn" width="40" height="40"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"
+            title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"
+            title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+          </div>
         </p>
        </td>
     </tr>
