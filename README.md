@@ -1,6 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>&nbsp;
 </div>
+
+---
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
