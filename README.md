@@ -11,8 +11,8 @@
             <li>Now I work in the technical support of a large Internet provider.</li>
             <li>I maintenance virtual servers based on Linux</li>
             <li>As a hobby, write code on <b>Pawn</b> and <b>Python</b>.</li>
-            <li>Helping with support of game servers in <a href="https://www.sa-mp.com/">sa-mp</a>.</li>
-            <li>I publish in a <a href="https://vk.com/1nsanemapping">blog on mapping in the GTA 3D Universe series</a>.</li>
+            <li>I provide assistance of game servers in <a href="https://www.sa-mp.com/">sa-mp</a>.</li>
+            <li>I publish in a <a href="https://vk.com/1nsanemapping">blog about mapping in the GTA 3D Universe series</a>.</li>
           </ul>
         </p>
         <p>
