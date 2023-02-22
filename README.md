@@ -1,6 +1,6 @@
 
 <div id="logotype" align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/>&nbsp;
+  <a href = "https://github.com/ins1x"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/></a>&nbsp;
   <div id="header" align="left">
     <p>
       <h2>Hi, i'm 1NS</h2>
@@ -13,14 +13,6 @@
       </ul>
     </p>
   </div>
-  <p>
-     <div id="contacts" align="left">
-      <a href=https://discord.com/users/908991660157976607">
-        <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/discord-icon.png"/>&nbsp;<b><i>1NS#7233</i></b>
-      </a>
-      <a href="https://t.me/ins1x"><img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/24/web-telegram-icon.png"/>&nbsp;<b><i>ins1x</i></b></a>
-     </div>
-  </p>
     <div id="languages" align="center">
       <h2> </h2>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
