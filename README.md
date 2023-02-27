@@ -6,10 +6,10 @@
       <h2>Hi, i'm 1NS</h2>
       <ul>
         <li>Now I work in the technical support of a large Internet provider.</li>
-        <li>I maintenance virtual servers based on Linux.</li>
         <li>As a hobby, write code on <b>Pawn</b> and <b>Python</b>.</li>
         <li>I provide assistance of game servers in <a href="https://www.sa-mp.com/">sa-mp</a>.</li>
         <li>I publish in a <a href="https://vk.com/1nsanemapping">blog about mapping in the GTA 3D Universe series</a>.</li>
+        <li>How to reach me :video_game: <a href="https://discordapp.com/users/908991660157976607"><i>Discord#7233</i></a></li>
       </ul>
     </p>
   </div>
