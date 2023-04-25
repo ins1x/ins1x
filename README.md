@@ -10,7 +10,7 @@
         <li>I provide assistance of game servers in <a href="https://www.sa-mp.com/">sa-mp</a>.</li>
         <li>I publish in a <a href="https://vk.com/1nsanemapping">blog about mapping in the GTA 3D Universe series</a>.</li>
         <li>Maked <a href="https://www.youtube.com/@1nsanemapping/featured">amazing maps for GTA based multiplayers</a>.</li>
-        <li>Contact me :video_game: Discord <a href="https://discord.com">1NS#7233</a> or Telegram <a href="https://t.me/ins1x">ins1x</a></li>
+        <li>Contact me :video_game: Discord <a href="https://discord.com">1NS#7233</a></li>
       </ul>
     </p>
   </div>
