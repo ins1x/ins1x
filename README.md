@@ -12,7 +12,7 @@
           <a href="https://cr-mp.ru/">CR:MP<a/>, <a href="https://gtaundergroundmod.com/">UG:MP</a>.</li>
         <li>I publish in a <a href="https://vk.com/1nsanemapping">blog about mapping in the GTA 3D Universe series</a>.</li>
         <li>Maked <a href="https://www.youtube.com/@1nsanemapping/featured">amazing maps for GTA based multiplayers</a>.</li>
-        <li>Contact me :video_game: Discord <a href="https://discord.com">1NS#7233</a></li>
+        <li>Contact me :video_game: Discord <a href="https://discordapp.com/users/625192705772748821">1NS</a></li>
       </ul>
     </p>
   </div>
@@ -20,8 +20,6 @@
       <h2> </h2>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
       title="Python" alt="Python" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"
-      title="C" alt="C" width="40" height="40"/>&nbsp;
       <img src="https://icons.iconarchive.com/icons/fa-team/fontawesome/48/FontAwesome-Chess-Pawn-icon.png"
       title="Pawn" alt="Pawn" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"
