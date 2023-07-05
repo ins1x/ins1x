@@ -20,6 +20,8 @@
       <h2> </h2>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
       title="Python" alt="Python" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg"
+      title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
       <img src="https://icons.iconarchive.com/icons/fa-team/fontawesome/48/FontAwesome-Chess-Pawn-icon.png"
       title="Pawn" alt="Pawn" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"
