@@ -12,7 +12,7 @@
           <a href="https://cr-mp.ru/">CR:MP<a/>, <a href="https://gtaundergroundmod.com/">UG:MP</a>.</li>
         <li>I publish in a <a href="https://vk.com/1nsanemapping">blog about mapping in the GTA 3D Universe series</a>.</li>
         <li>Maked <a href="https://www.youtube.com/@1nsanemapping/featured">amazing maps for GTA based multiplayers</a>.</li>
-        <li>Contact me :video_game: Discord <a href="https://discordapp.com/users/625192705772748821">1NS</a></li>
+        <li>Contact me :mailbox: <a href="mailto:ins16mail@yandex.by">e-mail</a> or Discord :video_game: <a href="https://discordapp.com/users/625192705772748821">1NS</a></li>
       </ul>
     </p>
   </div>
@@ -28,6 +28,8 @@
       title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"
       title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
+      title="Shell" alt="Shell" width="40" height="40"/>&nbsp;
     </div>
   </p>
 </div>
