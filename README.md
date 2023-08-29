@@ -18,8 +18,9 @@
       <h2>Hi, i'm 1NS</h2>
       <ul>
         <li>Now I work in the technical support of a large Internet provider.</li>
-        <li>As a hobby, write code on <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=pawn&sort=">Pawn</a>
-          and <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=python&sort=">Python</a>.</li>
+        <li>As a hobby, write code on <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=pawn&sort=">Pawn</a>, 
+          <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=python&sort=">Python</a> 
+          and <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=lua&sort=">Lua</a>.</li>
         <li>I provide assistance of game servers in <a href="https://www.sa-mp.com/">SA:MP</a>,
           <a href="https://cr-mp.ru/">CR:MP<a/>, <a href="https://gtaundergroundmod.com/">UG:MP</a>.</li>
         <li>Maked <a href="https://www.youtube.com/@1nsanemapping/featured">amazing maps for GTA 3D Universe series multiplayers</a>.</li>
