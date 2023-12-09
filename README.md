@@ -21,7 +21,6 @@
         <li>As a hobby, write code on <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=pawn&sort=">Pawn</a>, 
           <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=python&sort=">Python</a> 
           and <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=lua&sort=">Lua</a>.</li>
-        <li>I provide assistance of game servers in <a href="https://sampwiki.blast.hk/wiki/Main_Page">SA:MP</a>.</li>
         <li>Maked <a href="https://www.youtube.com/@1nsanemapping/featured">amazing maps for GTA 3D Universe series multiplayers</a>.</li>
         <li>Contact me :mailbox: <a href="mailto:ins16mail@yandex.by">e-mail</a> or Discord :video_game: <a href="https://discordapp.com/users/625192705772748821">1NS</a></li>
       </ul>
