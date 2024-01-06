@@ -21,6 +21,8 @@
         <li>As a hobby, write code on <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=pawn&sort=">Pawn</a>, 
           <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=python&sort=">Python</a> 
           and <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=lua&sort=">Lua</a>.</li>
+        <li>Developing server gamemodes and <a hre="https://github.com/ins1x/useful-samp-stuff">filterscripts</a> for <a href="https://sampwiki.blast.hk/wiki/Main_Page">San Andreas Multiplayer</a>.</li>
+        <li>Developing of various <a href="https://github.com/ins1x/AbsEventHelper">utilities</a> and <a href="https://github.com/ins1x/mtools">tools</a> for mapping.</li>
         <li>Maked <a href="https://www.youtube.com/@1nsanemapping/featured">amazing maps for GTA 3D Universe series multiplayers</a>.</li>
         <li>Contact me :mailbox: <a href="mailto:ins16mail@yandex.by">e-mail</a> or Discord :video_game: <a href="https://discordapp.com/users/625192705772748821">1NS</a></li>
       </ul>
