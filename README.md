@@ -10,7 +10,7 @@
       title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
       <img src="https://icons.iconarchive.com/icons/fa-team/fontawesome/48/FontAwesome-Chess-Pawn-icon.png"
       title="Pawn" alt="Pawn" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"
+      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
       title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
       title="Shell" alt="Shell" width="40" height="40"/>&nbsp;
