@@ -17,7 +17,7 @@
     </div>
       <h2>Hi, i'm 1NS</h2>
       <ul>
-        <li>Now I work in the technical support of a large Internet provider.</li>
+        <li>Now I work in the ISP technical support.</li>
         <li>As a hobby, write code on <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=pawn&sort=">Pawn</a>, 
           <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=python&sort=">Python</a> 
           and <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=lua&sort=">Lua</a>.</li>
