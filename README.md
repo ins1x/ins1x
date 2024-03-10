@@ -20,9 +20,9 @@
         <li>Now I work in the ISP technical support.</li>
         <li>As a hobby, write code on <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=pawn&sort=">Pawn</a>, 
           <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=python&sort=">Python</a> 
-          and <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=lua&sort=">Lua</a>.</li>
-        <li>Developing server <a href="https://github.com/ins1x/useful-samp-stuff/tree/main/gamemodes">gamemodes</a> and <a href="https://github.com/ins1x/useful-samp-stuff">filterscripts</a> for <a href="https://sampwiki.blast.hk/wiki/Main_Page">San Andreas Multiplayer</a>.</li>
-        <li>Developing of various <a href="https://github.com/ins1x/AbsEventHelper">utilities</a> and <a href="https://github.com/ins1x/mtools">tools</a> for mapping.</li>
+          and <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=lua&sort=">Lua</a> and other scripting languages.</li>
+        <li>Previously developed server <a href="https://github.com/ins1x/useful-samp-stuff/tree/main/gamemodes">gamemodes</a> and <a href="https://github.com/ins1x/useful-samp-stuff">filterscripts</a> for <a href="https://sampwiki.blast.hk/wiki/Main_Page">San Andreas Multiplayer</a>.</li>
+        <li>Previously developed of various <a href="https://github.com/ins1x/AbsEventHelper">utilities</a> and <a href="https://github.com/ins1x/mtools">tools</a> for mapping.</li>
         <li>Maked <a href="https://www.youtube.com/@1nsanemapping/featured">amazing maps for GTA 3D Universe series multiplayers</a>.</li>
       </ul>
     </p>
