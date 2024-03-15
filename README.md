@@ -25,6 +25,7 @@
         <li>Previously developed of various <a href="https://github.com/ins1x/AbsEventHelper">utilities</a> and <a href="https://github.com/ins1x/mtools">tools</a> for mapping.</li>
         <li>Maked <a href="https://www.youtube.com/@1nsanemapping/featured">amazing maps for GTA 3D Universe series multiplayers</a>.</li>
       </ul>
+      <a href="https://discordapp.com/users/625192705772748821" alt="Discord proflie"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
     </p>
   </div>
   </p>
