@@ -3,18 +3,6 @@
   <a href = "https://github.com/ins1x"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/></a>&nbsp;
   <div id="header" align="left">
     <p>
-      <div id="languages" align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
-      title="Python" alt="Python" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg"
-      title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
-      <img src="https://icons.iconarchive.com/icons/fa-team/fontawesome/48/FontAwesome-Chess-Pawn-icon.png"
-      title="Pawn" alt="Pawn" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
-      title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
-      title="Shell" alt="Shell" width="40" height="40"/>&nbsp;
-    </div>
       <h2>Hi, i'm 1NS</h2>
       <ul>
         <li>As a hobby, write code on <a href="https://github.com/ins1x?tab=repositories&q=&type=&language=pawn&sort=">Pawn</a>, 
