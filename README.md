@@ -16,6 +16,7 @@
       <a href="https://discordapp.com/users/625192705772748821" alt="Discord proflie"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
       <a href="https://www.youtube.com/@1nsanemapping/featured" alt="YouTube channel"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>&nbsp;
       <a href="https://t.me/ins1x" alt="Telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;
+      <!-- <h6>Owners of samp roleplays and bonus projects, please do not write to me. Thank's</h6>&nbsp; -->
     </p>
   </div>
   </p>
