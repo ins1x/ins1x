@@ -11,9 +11,8 @@
         <li>Previously developed server-side <a href="https://github.com/ins1x/useful-samp-stuff/tree/main/gamemodes">gamemodes</a> and <a href="https://github.com/ins1x/useful-samp-stuff/tree/main/filterscripts">filterscripts</a> for <a href="https://sampwiki.blast.hk/wiki/Main_Page">San Andreas Multiplayer</a>.</li>
         <li>Develope <a href="https://github.com/ins1x/moonloader-scripts">moonloader-scripts</a>, in-game <a href="https://github.com/ins1x/mtools">mapping tools</a> and <a href="https://github.com/ins1x/MappingToolkit">toolkit</a>.</li>
         <!--<li><li>Maked <a href="https://www.youtube.com/@1nsanemapping/featured">amazing maps for GTA 3D Universe series multiplayers</a>.</li> -->
-        <li>Create <a href="https://github.com/ins1x/TC-scripts">VBS/WSH scripts and tweaks</a> for Total Commander.</li>
-        <li>Share <a href="https://drive.google.com/drive/folders/1pkXNZbV0fCrHP0mvk8vNP4WjoLH3EzxS?usp=sharing">tweak&#39;s and scripts</a> for sysadmins and anykeys.</li>
-        <li>Write some tiny Python/Shell scripts for automation and system configuration.</li>
+        <li>Create <a href="https://github.com/ins1x/TC-scripts">VBS/WSH scripts</a> and <a href="https://mega.nz/folder/mjZEhYAC#2E6z-FmTfTQfGBeSOCBiJQ">repack's</a> for Total Commander.</li>
+        <li>Write some tiny <a href="https://github.com/ins1x/tiny-os-scripts">Shell/Python scripts</a> for automation and system configuration.</li>
       </ul>
   </div>
   </p>
