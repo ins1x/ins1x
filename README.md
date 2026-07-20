@@ -1,7 +1,7 @@
 
 <div id="logotype" align="center">
   <!-- <a href = "https://github.com/ins1x"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/></a>&nbsp;-->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ins1x&theme=transparent">
+  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ins1x&theme=transparent"> -->
   <div id="header" align="left">
     <p>
       <h2>Hi, i'm 1NS</h2>
