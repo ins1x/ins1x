@@ -15,7 +15,7 @@
         </li>
         <li>Develope client-side <a href="https://github.com/ins1x/moonloader-scripts">moonloader-scripts</a> for various game projects</li>
         <li>Create tools for mappers, in-game <a href="https://github.com/ins1x/mtools">mapping tools</a> and <a href="https://github.com/ins1x/MappingToolkit">MappingToolkit</a>.</li>
-        <li>Create <a href="https://github.com/ins1x/TC-scripts">VBS/WSH scripts</a> and <a href="https://mega.nz/folder/mjZEhYAC#2E6z-FmTfTQfGBeSOCBiJQ">repack's</a> for Total Commander.</li>
+        <li>Early create <a href="https://github.com/ins1x/TC-scripts">VBS/WSH scripts</a> and <a href="https://mega.nz/folder/mjZEhYAC#2E6z-FmTfTQfGBeSOCBiJQ">repack's</a> for Total Commander.</li>
         <li>Write some tiny <a href="https://github.com/ins1x/tiny-os-scripts">shell scripts</a> for automation and system configuration.</li>
       </ul>
   </div>
